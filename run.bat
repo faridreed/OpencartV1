@@ -1,0 +1,1 @@
+pytest -v -s -m C:\Users\freda\PycharmProjects\OpencartV1\testCases -m "sanity"
